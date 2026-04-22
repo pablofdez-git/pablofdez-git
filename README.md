@@ -22,7 +22,7 @@
 ---
 
 ## 🐍 Mi actividad en GitHub
-![Snake animation](https://raw.githubusercontent.com/pablofdez-git/pablofdez-git/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github-readme-snake.vercel.app/api/snake?github=pablofdez-git&color=green&point=white)
 
 ---
 

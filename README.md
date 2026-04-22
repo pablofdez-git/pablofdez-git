@@ -21,8 +21,11 @@
 
 ---
 
-## 🐍 Mi actividad en GitHub
-![Snake animation](https://github-readme-snake.vercel.app/api/snake?github=pablofdez-git&color=green&point=white)
+## 📊 Mi Actividad Tecnológica
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofdez-git&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofdez-git&theme=radical&hide_border=true" />
+</p>
 
 ---
 

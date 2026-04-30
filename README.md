@@ -29,17 +29,18 @@
 
 ---
 
-## 📊 Estadísticas y Actividad
+## 📊  Estadísticas de GitHub
 
-### ⏳ Tiempo de Programación (Weekly Metrics)
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablofdez-git&show_icons=true&theme=radical" alt="Estadísticas generales" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofdez-git&theme=radical" alt="Racha de contribuciones" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofdez-git&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofdez-git&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🐍 Mi historial de contribuciones

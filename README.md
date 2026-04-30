@@ -1,53 +1,56 @@
-# ¡Hola! Soy Pablo Fernández Cornejo <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeHoxbmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmYWN0b3J5JmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# ¡Hola! Soy Pablo Fernández Cornejo 👋 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+DAM;Desarrollador+Java+Junior;Apasionado+por+la+automatización" alt="Typing SVG" />
+</p>
+
+*Desarrollador en formación enfocado en la resolución de problemas y la eficiencia técnica.*
 
 ---
 
-## 🚀 Sobre mí
-* 💻 **Estudiante:** 1º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en SAFA Tech.
-* 🤾‍♂️ **Deportista:** Jugador de *Balonmano* en el Balonmano Pisuerga en Zaratán.
-* 🧠 **Aprendizaje:** Enfocado en la resolución de problemas y el desarrollo de lógica de programación.
+## 🚀 Perfil Profesional
+* 💻 **Formación:** 1º de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en SAFA Tech.
+* 🤾‍♂️ **Soft Skills:** Disciplina, trabajo en equipo y gestión del rendimiento.
+* 🌱 **Aprendiendo actualmente:** Estructuras de datos avanzadas y diseño de bases de datos relacionales.
 
 ---
 
-## 📚 Mi camino en el Desarrollo (DAM)
-*Actualmente centrado en asentar las bases de la programación y la gestión de datos.*
+## 🛠️ Tecnologías y Herramientas
 
-| Área | ¿En qué punto estoy? | Interés actual |
-| :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20"> **Java** | Descubriendo la POO y la lógica básica. | 🛠️ Construyendo |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"> **Bases de Datos** | Aprendiendo a estructurar y consultar datos. | 🔍 Explorando |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"> **Lenguaje** | Trabajando con Markdown y lenguajes de marcas. | ✍️ Documentando |
-
----
-## 🛠️ Tecnologías conocidas 👨🏻‍💻
+### 🖥️ Desarrollo & Lenguajes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,md,git,github,vscode,eclipse,linux,bash,windows" />
+  <img src="https://skillicons.dev/icons?i=java,js,bash,html,css,mysql" />
+</p>
+
+### 🔧 Herramientas & Entornos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,windows" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofdez-git&theme=radical&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofdez-git&theme=radical&hide_border=false&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+## 📂 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| [**InventoryControl**](https://github.com/pablofdez-git/tu-repo) | Sistema de gestión de inventarios con validación de datos. | `Java`, `MySQL` |
+| [**Web-Docs**](https://github.com/pablofdez-git/tu-repo) | Documentación técnica estructurada con estándares modernos. | `HTML`, `CSS` |
 
 ---
 
-## 💬 Frase del día
-> *"No cuentes los días, haz que los días cuenten."* — **Muhammad Ali** 🥊
+## 📊 Actividad en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablofdez-git&show_icons=true&theme=radical" alt="Estadísticas generales" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablofdez-git&theme=radical" alt="Racha de contribuciones" />
+</p>
 
 ---
 
 ## 🔗 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pablo.fernandezz)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pablofdez-git)
-
----
+<p align="left">
+<a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tu-correo@ejemplo.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>

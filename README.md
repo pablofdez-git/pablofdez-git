@@ -1,7 +1,7 @@
 # ¡Hola! Soy Pablo Fernández Cornejo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+DAM;Desarrollador+Java+Junior;Apasionado+por+la+automatización" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Estudiante+de+DAM;Desarrollador+Java+Junior" alt="Typing SVG" />
 </p>
 
 *Desarrollador en formación enfocado en la resolución de problemas y la eficiencia técnica.*

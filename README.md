@@ -19,7 +19,7 @@
 
 ### 🖥️ Desarrollo & Lenguajes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,bash,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,bash,html,css,mysql,py" />
 </p>
 
 ### 🔧 Herramientas & Entornos
